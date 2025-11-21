@@ -26,7 +26,6 @@ get_group_means <- function(seurat_obj, group_var) {
 
 # --------------------------------------------------------------------
 # FUNCTION: extract_genes
-
 # Extracts gene symbols from enrichment outputs.
 # Handles gene lists separated by "/" or ",".
 # ------------------------------------------------------------
